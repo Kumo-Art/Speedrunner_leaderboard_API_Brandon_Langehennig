@@ -22,6 +22,6 @@ namespace Speedrunner_leaderboard_API_Brandon_Langehennig.Models
 
         public DateTime SubmittedAt { get; set; } = DateTime.UtcNow;
 
-        public string? Notes { get; set; }
+        public string? Notes { get; set; } = string.Empty;
     }
 }
