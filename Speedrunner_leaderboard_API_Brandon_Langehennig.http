@@ -1,0 +1,6 @@
+@Speedrunner_leaderboard_API_Brandon_Langehennig_HostAddress = http://localhost:5062
+
+GET {{Speedrunner_leaderboard_API_Brandon_Langehennig_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
